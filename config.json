@@ -1,0 +1,33 @@
+{
+    "debugMode": true,
+    "templateDir": "views/html",
+    "js": {
+        "vendor": "/js/vendor",
+        "baseFile": "/js/main.js"
+    },
+    "css": {
+        "vendor": "css/vendor",
+        "baseFile": "/css/main.css"
+    },
+    
+    "html": {
+        "pages" : [
+            {
+                "file": "index",
+                "title": "Trekoholic | Get Addicted",
+                "dependencies": [
+                    "jquery",
+                    "slider"
+                ]
+            },
+            {
+                "file": "profile",
+                "title": "Trekoholic | Profile",
+                "dependencies": [
+                    "jquery",
+                    "slider"
+                ]
+            }
+        ]
+    }
+}
