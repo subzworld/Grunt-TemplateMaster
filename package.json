@@ -1,0 +1,26 @@
+{
+  "name": "grunt-templatemaster",
+  "version": "1.0.0",
+  "description": "An easy to use file templating system using Grunt for front-end projects",
+  "main": "templatemaster.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/subzworld/Grunt-TemplateMaster.git"
+  },
+  "keywords": [
+    "template",
+    "grunt-templatemaster"
+  ],
+  "author": "Subroto Mukherjee",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/subzworld/Grunt-TemplateMaster/issues"
+  },
+  "homepage": "https://github.com/subzworld/Grunt-TemplateMaster#readme",
+  "devDependencies": {
+    "grunt": "^1.0.1"
+  }
+}
